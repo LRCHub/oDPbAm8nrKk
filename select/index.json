@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "歌ってごめん",
+  "base_artist": "AKASAKI",
+  "createdAt": "2025-12-01T23:07:42.824871Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "歌ってごめん",
+      "artist": "AKASAKI",
+      "has_synced": false,
+      "path": "select/pl_01_歌ってごめん_AKASAKI.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "歌ってごめん Sped Up",
+      "artist": "AKASAKI",
+      "has_synced": false,
+      "path": "select/pl_02_歌ってごめん_Sped_Up_AKASAKI.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "歌ってごめん Slowed Down",
+      "artist": "AKASAKI",
+      "has_synced": false,
+      "path": "select/pl_03_歌ってごめん_Slowed_Down_AKASAKI.txt"
+    }
+  ]
+}
